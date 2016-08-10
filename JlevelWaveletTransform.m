@@ -12,7 +12,7 @@ function [ waveletCoefficients ] = JlevelWaveletTransform( inputImg,numberOfLeve
 % waveletCoefficients = an array of NxN wavelet coefficients
 
 % Code Developed by :
-% Gregory Kalliatakis (January 2014) - gkalliatakis@yahoo.gr
+% Kalliatakis Grigorios (January 2014) - gkalliatakis@yahoo.gr
 % Masters in Computer Vision
 % University of Burgundy, France
 % Advanced Image Analysis - Homework Project on Wavelet decomposition and Filter bank
