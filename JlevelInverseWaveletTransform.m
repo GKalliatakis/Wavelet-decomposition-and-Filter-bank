@@ -13,7 +13,7 @@ function [ reconstructedImg ] = JlevelInverseWaveletTransform( inputCoefficients
 % reconstructedImg = image reconstructed from the input coefficients
 
 % Code Developed by :
-% Gregory Kalliatakis (January 2014) - gkalliatakis@yahoo.gr
+% Kalliatakis Grigorios (January 2014) - gkalliatakis@yahoo.gr
 % Masters in Computer Vision
 % University of Burgundy, France
 % Advanced Image Analysis - Homework Project on Wavelet decomposition and Filter bank
