@@ -8,7 +8,6 @@ In this exercise, we investigate the wavelet transform and its applications in i
 1. j-level wavelet transform of an NxN image
 2. inverse j-level wavelet transform of and NxN array of wavelet coefficients
 
-
 ### Implementation Details
 Two functions and a script were developed. 
 Two functions were developed: *JlevelWaveletTransform* and *JlevelInverseWaveletTransform*, and a script called *denoisingExample*.
