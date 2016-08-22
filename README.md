@@ -1,4 +1,6 @@
 # Wavelets, Filter Banks and Applications
+<p align="left"> <img src="https://raw.githubusercontent.com/GKalliatakis/Adventures-in-deep-learning/master/logo.png?raw=true" /> </p>
+
 
 ### The wavelet transform and its applications in image denoising
 
