@@ -1,11 +1,7 @@
 # Wavelets, Filter Banks and Applications
-<p align="left"> <img src="https://raw.githubusercontent.com/GKalliatakis/Adventures-in-deep-learning/master/logo.png?raw=true" /> </p>
-
 
 ### The wavelet transform and its applications in image denoising
-
-![alt tag](https://raw.githubusercontent.com/GKalliatakis/Wavelet-decomposition-and-Filter-bank/master/Barbara.png)
-
+<p align="center"> <img src="https://raw.githubusercontent.com/GKalliatakis/Wavelet-decomposition-and-Filter-bank/master/Barbara.png?raw=true" /> </p>
 
 ### Overview
 In this exercise, we investigate the wavelet transform and its applications in image denoising. For this reason two functions were developed:
